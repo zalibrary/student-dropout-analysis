@@ -64,7 +64,7 @@ Interactive dashboard covering:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_overview.png)
+![Dashboard Preview](https://github.com/zalibrary/student-dropout-analysis/blob/main/dsahboard/dashboard_page-0001.jpg)
 
 ---
 
